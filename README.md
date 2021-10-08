@@ -2,6 +2,8 @@
 
 The 1001 Paper Cranes Project
 
+![Alt text](1001-Paper-Cranes.png?raw=true "Title")
+
 The Bottle Rocket office used to have a paper crane installation that we would like to bring back. We planned to fold at least 1,001 paper cranes, string them up and place them on one of the walls at headquarters. We got the support of nearly 50 team members to help design these beautiful cranes.
 
 This year we wanted to commemorrate this new sedge of cranes by writing an API that anyone can use to test their new app, explore GraphQL or just get inspired. The spirit of each of our paper cranes was inspired by 1,001 quotes that we hold dear.
